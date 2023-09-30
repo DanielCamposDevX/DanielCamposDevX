@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danielcamposdevx&show_icons=true&locale=en" alt="danielcamposdevx" /></p>
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=danielcamposdevx&show_icons=true&locale=en&layout=compact" alt="danielcamposdevx" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danielcamposdevx&show_icons=true&locale=en" alt="danielcamposdevx" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=danielcamposdevx&show_icons=true&locale=en&layout=compact" alt="danielcamposdevx" /></p>
 ///
 
 
