@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Student of exact ciences at UFJF one of the best federal universitys in Brazil. My career as Developer started in one of the most important facilitys in the university, this facility is called "CRITT" or : "Regional Center of Inovation and Technology Transfers", i learned IT solutions there, managing the server, fixing hardware, creating softwares to improve workflow, etc... At the current time i'm working at Bemmelhor SI as support and developer for Asterisk IPBX's, and studying at DRIVEN Full Stack Developer Program. ###</h3>
+
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=danielcamposdevx&show_icons=true&locale=en&layout=compact" alt="danielcamposdevx" /></p>
 
