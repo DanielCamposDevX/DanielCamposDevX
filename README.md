@@ -1,13 +1,12 @@
-<h2 align="left">Hi 👋! My name is Daniel and I'm a Full Stack Developer</h2>
+<h2 align="center"> 👋🏼 Olá, sou o Daniel! Sou um desenvolvedor full stack apaixonado por tecnologia, games e desenvolvimento web.</h2>
+
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielCamposDevX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielCamposDevX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-<p>
-  👋🏼 Olá, sou o Daniel! Sou um desenvolvedor full stack apaixonado por tecnologia, games e desenvolvimento web.
+  <p>
 
 📚💡Desde o início, meu caminho no mundo da tecnologia foi marcado por curiosidade e autodidatismo. Comecei a explorar meu computador, fazendo cursos online de montagem e manutenção, bem como aprendendo lógica de programação. Logo, comecei a realizar trabalhos de manutenção por conta própria.
 
@@ -19,6 +18,7 @@
 
 🤝Quer conversar sobre oportunidades de colaboração ou trocar experiências? Vamos nos conectar!
 </p>
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
