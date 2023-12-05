@@ -17,6 +17,9 @@
 📈 💪 No presente, estou buscando novos desafios na área de programação e me aperfeiçoando com a Driven Education para atingir novos objetivos e metas.
 
 🤝Quer conversar sobre oportunidades de colaboração ou trocar experiências? Vamos nos conectar!
+daniel.campos.dev3@gmail.com
+(32) 98875-7666
+Linkedin: DanielCamposDevX
 </p>
 </div>
 
