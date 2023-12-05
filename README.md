@@ -20,7 +20,6 @@
 
 daniel.campos.dev3@gmail.com
 (32) 98875-7666
-Linkedin: DanielCamposDevX
 </p>
 </div>
 
