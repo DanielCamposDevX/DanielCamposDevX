@@ -1,5 +1,4 @@
-<h2 align="center"> 👋🏼 Olá, sou o Daniel! Sou um desenvolvedor full stack apaixonado por tecnologia, games e desenvolvimento web.</h2>
-
+<h2 align="center"> 👋🏼 Hello, I'm Daniel! A full stack developer passionate about technology, games, and web development.</h2>
 
 ###
 
@@ -8,20 +7,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielCamposDevX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <p>
 
-📚💡Desde o início, meu caminho no mundo da tecnologia foi marcado por curiosidade e autodidatismo. Comecei a explorar meu computador, fazendo cursos online de montagem e manutenção, bem como aprendendo lógica de programação. Logo, comecei a realizar trabalhos de manutenção por conta própria.
+📚💡 From the beginning, my journey in the tech world has been driven by curiosity and self-learning. I started by exploring my computer, taking online courses in hardware assembly and maintenance, as well as learning programming logic. Soon after, I began doing maintenance work on my own.
 
-🎓🌎Minha jornada acadêmica na UFJF me proporcionou a chance de aprimorar minhas habilidades. Passei no processo seletivo do Centro Regional de Inovação e Transferência de Tecnologia (CRITT UFJF), um órgão do governo. Lá, atuei como gestor de bolsistas na área de T.I. Liderei projetos envolvendo servidores Windows Server, redes intranet e desenvolvimento JavaScript para otimizar processos internos, tudo em conformidade com a LGPD.
+🎓🌎 My academic journey at UFJF gave me the opportunity to refine my skills. I was selected for the Regional Innovation and Technology Transfer Center (CRITT UFJF), a government institution. There, I worked as a scholarship program supervisor in the I.T. sector. I led projects involving Windows Server environments, intranet networks, and JavaScript development to improve internal processes, all in compliance with LGPD regulations.
 
-🚀💼Posteriormente, fui contratado por uma das empresas do Centro, onde atuava no desenvolvimento da telefonia IP na nuvem, utilizando Asterisk IPBX em conjunto com Node.js e interfaces React para sistemas de gestão. No backend, lidava diretamente com protocolos UDP e TCP, além de administrar bancos de dados como Postgres, MongoDB e o DB do Asterisk. Além disso, com Node.js ampliava significativamente a gama de funcionalidades. No dia a dia, também era responsável pelo Bash Scripting no Linux, desempenhando um papel vital na parte de DevOps.
+🚀💼 Later, I was hired by one of the companies inside the Center, where I worked on cloud IP telephony development using Asterisk IPBX with Node.js and React interfaces for management systems. On the backend, I worked directly with UDP and TCP protocols, and administered databases such as Postgres, MongoDB, and Asterisk DB. With Node.js, I expanded the platform’s functionalities significantly. On a daily basis, I was also responsible for Bash scripting in Linux, playing a vital role in DevOps operations.
 
-🚀💪Atualmente estou desempenhando o papél de desenvolvedor na empresa DEVIO, onde utilizo de Typescript, javascript, React e ReactNative. Para criar aplicações interativas e com funcionalidades incríveis para garantir ao cliente um ROI incrível. Além de desenvolver aplicações WEB e Mobile, nos destacamos por utilizar metodologias ageis como o Scrum e manter uma ótima política de código limpo, facilitando a manutenção do código pós publicação e acelerando o processo de desenvolvimento. Sempre tentando inovar para trazer o máximo no mínimo de tempo me mantenho em constante aprendizado para ficar atualizado com os padrões do mercado e novas funcionalidades disponíveis, sem medo de utilizar ferramentas e inteligencias artificiais para auxiliar e aprimorar o processo de desenvolvimento.
+🚀💪 I am currently working as a developer at DEVIO, where I use TypeScript, JavaScript, React and React Native to build interactive applications with powerful features that help clients achieve incredible ROI. Besides developing web and mobile applications, we follow agile methodologies such as Scrum and maintain strong clean-code practices, ensuring easier maintenance after deployment and speeding up the development process. Always aiming to innovate and bring maximum results in minimum time, I remain in constant learning to stay updated with market standards and new tools, without fear of using A.I. to enhance the development workflow.
 
-📈 💪 No presente, continuo aberto a novos desafios na área de programação e me aperfeiçoando para atingir novos objetivos e metas.
+📈💪 Today, I continue to stay open to new challenges in programming while improving myself to reach new goals and achievements.
 
-🤝Quer conversar sobre oportunidades de colaboração ou trocar experiências? Vamos nos conectar!
+🤝 Want to talk about collaboration opportunities or exchange experiences? Let’s connect!
 
-daniel.campos.dev3@gmail.com
-(32) 98875-7666
+daniel.campos.dev3@gmail.com  
++55 (32) 98875-7666
 </p>
 </div>
 
