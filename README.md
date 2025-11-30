@@ -19,7 +19,7 @@
 🤝 Want to talk about collaboration opportunities or exchange experiences? Let’s connect!
 
 daniel.campos.dev3@gmail.com  
-+55 (32) 98875-7666
++55 (31) 98107-7177
 </p>
 </div>
 
